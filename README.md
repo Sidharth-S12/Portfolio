@@ -6,7 +6,9 @@ A modern, dark-themed personal portfolio built with **React + Vite**, showcasing
 
 ## 🌐 Live Demo
 
-> [https://your-portfolio.vercel.app](https://your-portfolio.vercel.app) *(update after deploying)*
+> [portfolio-self-tau-52.vercel.app
+](portfolio-self-tau-52.vercel.app
+) *(update after deploying)*
 
 ---
 
@@ -122,4 +124,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Built with ❤️ by Sidharth S</p>
+<p align="center">Built by Sidharth S</p>
